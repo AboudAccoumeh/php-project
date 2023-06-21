@@ -1,0 +1,9 @@
+span{
+    color:crimson;
+}
+
+#img:hover{
+    transition: 0.8s;
+    transform: scale(3.9);
+    cursor: zoom-in;
+}
