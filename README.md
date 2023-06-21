@@ -30,7 +30,7 @@ To use this project:
 2. Import the project files into your project directory.
 3. Update the database connection details in the `conn.php` file to match your database configuration.
 4. Run the project on a PHP-enabled server.
-5. Use `project.sql`file to create the database.
+5. Use `project.sql` file to create the database.
 
 ## Disclaimer
 
